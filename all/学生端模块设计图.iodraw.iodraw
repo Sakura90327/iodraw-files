@@ -118,13 +118,13 @@
             <mxPoint x="960" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23PF3xFDicUZ3NTe_Fv7-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习目标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="23PF3xFDicUZ3NTe_Fv7-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习目标管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="200" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习计划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="200" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="23PF3xFDicUZ3NTe_Fv7-28" value="学习过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="23PF3xFDicUZ3NTe_Fv7-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习过程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="200" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
