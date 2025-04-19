@@ -145,8 +145,8 @@
             <mxPoint x="960" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23PF3xFDicUZ3NTe_Fv7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="23PF3xFDicUZ3NTe_Fv7-32" value="社区与资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="120" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
