@@ -137,45 +137,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习内容监督&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="120" width="160" height="40" as="geometry" />
+          <mxGeometry x="1000" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-33" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="180" as="sourcePoint" />
-            <mxPoint x="1220" y="180.43" as="targetPoint" />
+            <mxPoint x="1000" y="180" as="sourcePoint" />
+            <mxPoint x="1160" y="180.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习目标管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="200" width="40" height="160" as="geometry" />
+          <mxGeometry x="980" y="200" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习计划管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="200" width="40" height="160" as="geometry" />
+          <mxGeometry x="1060" y="200" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学习过程记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="200" width="40" height="160" as="geometry" />
+          <mxGeometry x="1140" y="200" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="23PF3xFDicUZ3NTe_Fv7-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="150" as="sourcePoint" />
-            <mxPoint x="1140" y="100" as="targetPoint" />
+            <mxPoint x="1010" y="150" as="sourcePoint" />
+            <mxPoint x="1080" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="23PF3xFDicUZ3NTe_Fv7-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010" y="230" as="sourcePoint" />
-            <mxPoint x="1060" y="180" as="targetPoint" />
+            <mxPoint x="950" y="230" as="sourcePoint" />
+            <mxPoint x="1000" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="23PF3xFDicUZ3NTe_Fv7-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1170" y="230" as="sourcePoint" />
-            <mxPoint x="1220" y="180" as="targetPoint" />
+            <mxPoint x="1110" y="230" as="sourcePoint" />
+            <mxPoint x="1160" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="23PF3xFDicUZ3NTe_Fv7-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="210" as="sourcePoint" />
-            <mxPoint x="1140" y="160" as="targetPoint" />
+            <mxPoint x="1030" y="210" as="sourcePoint" />
+            <mxPoint x="1080" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
