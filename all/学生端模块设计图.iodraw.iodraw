@@ -88,7 +88,7 @@
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;查看系统公告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="200" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="23PF3xFDicUZ3NTe_Fv7-19" value="日历系统展示学习计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="23PF3xFDicUZ3NTe_Fv7-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;日历系统展示学习计划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="23PF3xFDicUZ3NTe_Fv7-19">
