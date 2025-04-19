@@ -99,9 +99,12 @@
         </mxCell>
         <mxCell id="23PF3xFDicUZ3NTe_Fv7-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="150" as="sourcePoint" />
+            <mxPoint x="860" y="120" as="sourcePoint" />
             <mxPoint x="860" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="23PF3xFDicUZ3NTe_Fv7-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
