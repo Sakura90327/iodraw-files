@@ -224,10 +224,10 @@
           <mxGeometry x="1460" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-12" value="创建公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="200" width="40" height="120" as="geometry" />
+          <mxGeometry x="1460" y="200" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="200" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
