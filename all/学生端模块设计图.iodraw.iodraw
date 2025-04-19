@@ -187,7 +187,7 @@
         <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;帖子管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="200" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;评论管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="200" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
