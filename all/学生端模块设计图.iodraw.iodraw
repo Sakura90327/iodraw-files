@@ -178,7 +178,7 @@
             <mxPoint x="1080" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-2" value="内容审核与社区维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2GpvbyKvaX5Ti8oVrkiJ-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;内容审核与社区维护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="120" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
