@@ -1,3 +1,5 @@
+本仓库用于存储毕设相关图标
+
 文件格式：
 * [流程图](https://www.iodraw.com/diagram) (*.iodraw)
 * [思维导图](https://www.iodraw.com/mind) (*.mind)
