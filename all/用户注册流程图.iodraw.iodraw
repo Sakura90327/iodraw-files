@@ -22,6 +22,9 @@
             <mxPoint x="420" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YK3MEI6frmOrqQdqx5Ct-5" target="YK3MEI6frmOrqQdqx5Ct-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-5" value="用户名唯一性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="190" width="106" height="50" as="geometry" />
         </mxCell>
