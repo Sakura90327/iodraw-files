@@ -96,8 +96,13 @@
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="655" y="218" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK3MEI6frmOrqQdqx5Ct-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-26" value="提示信息错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="560" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
