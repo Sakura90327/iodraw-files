@@ -7,7 +7,7 @@
         <mxCell id="MwC7CMNulV4iFfxb3YtB-47" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="10" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwC7CMNulV4iFfxb3YtB-48" value="查询资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="80" width="126" height="40" as="geometry" />
         </mxCell>
       </root>
