@@ -79,6 +79,11 @@
             <mxPoint x="720" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK3MEI6frmOrqQdqx5Ct-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-20" value="数据匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="230" width="80" height="40" as="geometry" />
         </mxCell>
@@ -87,6 +92,9 @@
         </mxCell>
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-23" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="218" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
