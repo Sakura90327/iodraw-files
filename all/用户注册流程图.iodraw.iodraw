@@ -66,8 +66,16 @@
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-15" value="输入用户名、密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="90" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK3MEI6frmOrqQdqx5Ct-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-17" value="查询数据库信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="163" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
