@@ -20,7 +20,7 @@
             <mxPoint x="415" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-2" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwC7CMNulV4iFfxb3YtB-2" value="浏览帖子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="160" width="118" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwC7CMNulV4iFfxb3YtB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MwC7CMNulV4iFfxb3YtB-4">
@@ -72,7 +72,7 @@
             <mxPoint x="411.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwC7CMNulV4iFfxb3YtB-32" value="我的帖子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="110" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwC7CMNulV4iFfxb3YtB-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
