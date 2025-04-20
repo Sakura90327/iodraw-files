@@ -104,6 +104,9 @@
         <mxCell id="YK3MEI6frmOrqQdqx5Ct-26" value="提示信息错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="315" width="95" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
