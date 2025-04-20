@@ -31,24 +31,6 @@
         <mxCell id="MwC7CMNulV4iFfxb3YtB-4" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="220" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="417" y="368" as="targetPoint" />
-            <mxPoint x="415" y="336" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="368" width="118" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-15" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="336" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="308.5" as="sourcePoint" />
-            <mxPoint x="524" y="308.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MwC7CMNulV4iFfxb3YtB-26" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="268" width="30" height="30" as="geometry" />
         </mxCell>
