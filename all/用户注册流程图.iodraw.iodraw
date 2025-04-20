@@ -44,6 +44,9 @@
         <mxCell id="MwC7CMNulV4iFfxb3YtB-7" value="输入学习内容、日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="260" width="116" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MwC7CMNulV4iFfxb3YtB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="245" width="100" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
