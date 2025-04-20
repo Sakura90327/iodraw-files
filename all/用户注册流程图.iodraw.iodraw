@@ -22,7 +22,7 @@
             <mxPoint x="413" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YK3MEI6frmOrqQdqx5Ct-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YK3MEI6frmOrqQdqx5Ct-5" value="用户名唯一性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="190" width="106" height="50" as="geometry" />
         </mxCell>
       </root>
