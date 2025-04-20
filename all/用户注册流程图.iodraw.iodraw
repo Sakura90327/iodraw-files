@@ -36,7 +36,7 @@
         <mxCell id="MwC7CMNulV4iFfxb3YtB-4" value="添加学习过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="200" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwC7CMNulV4iFfxb3YtB-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwC7CMNulV4iFfxb3YtB-12" value="查看、编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
