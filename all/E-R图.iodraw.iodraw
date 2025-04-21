@@ -236,6 +236,9 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-62" value="查看" style="rhombus;whiteSpace=wrap;html=1;rotation=-217;" vertex="1" parent="1">
           <mxGeometry x="980" y="720" width="50" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
