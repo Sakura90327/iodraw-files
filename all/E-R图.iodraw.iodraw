@@ -464,6 +464,18 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-121" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=105;" vertex="1" parent="1">
           <mxGeometry x="1120" y="710" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-122" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jWNiBGlXSexpRmk-me00-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="700" as="sourcePoint" />
+            <mxPoint x="1200" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-123" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="820" as="sourcePoint" />
+            <mxPoint x="1150" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
