@@ -281,23 +281,6 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-74" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="720" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="800" as="sourcePoint" />
-            <mxPoint x="410" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-77" value="" style="endArrow=none;html=1;rounded=0;exitX=0.008;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jWNiBGlXSexpRmk-me00-67">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="860" as="sourcePoint" />
-            <mxPoint x="520" y="830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-78" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jWNiBGlXSexpRmk-me00-77">
-          <mxGeometry x="0.0318" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jWNiBGlXSexpRmk-me00-80" value="学习资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="520" width="119" height="40" as="geometry" />
         </mxCell>
