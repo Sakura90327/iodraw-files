@@ -315,8 +315,8 @@
             <mxPoint x="450" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-82" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="502" width="136" height="60" as="geometry" />
+        <mxCell id="jWNiBGlXSexpRmk-me00-82" value="上传下载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="502" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
