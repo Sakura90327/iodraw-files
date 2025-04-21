@@ -103,6 +103,12 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-29" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="330" width="79" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="jWNiBGlXSexpRmk-me00-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
