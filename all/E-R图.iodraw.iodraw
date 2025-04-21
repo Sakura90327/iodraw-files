@@ -278,8 +278,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="jWNiBGlXSexpRmk-me00-74" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="720" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
