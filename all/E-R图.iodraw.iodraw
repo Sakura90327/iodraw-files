@@ -79,7 +79,7 @@
             <mxPoint x="770" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jWNiBGlXSexpRmk-me00-22" value="学习目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
