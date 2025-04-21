@@ -259,6 +259,11 @@
             <mxPoint x="810" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jWNiBGlXSexpRmk-me00-68">
+          <mxGeometry x="-0.4926" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jWNiBGlXSexpRmk-me00-69" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="706.5" y="700" width="50" height="80" as="geometry" />
         </mxCell>
@@ -266,6 +271,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="860" as="sourcePoint" />
             <mxPoint x="700" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-72" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jWNiBGlXSexpRmk-me00-71">
+          <mxGeometry x="-0.0757" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
