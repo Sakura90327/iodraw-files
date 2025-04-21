@@ -514,8 +514,11 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-131" value="简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="734.03" y="800" width="79" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-132" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jWNiBGlXSexpRmk-me00-132" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="756.5" y="870" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-133" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="930" width="79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
