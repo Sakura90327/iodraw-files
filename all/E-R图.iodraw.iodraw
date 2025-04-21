@@ -10,6 +10,9 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-4" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="490" width="79" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-5" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="510" width="79" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
