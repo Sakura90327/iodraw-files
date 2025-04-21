@@ -601,6 +601,9 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-153" value="上传者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="540" width="79" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-154" value="上传时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="79" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
