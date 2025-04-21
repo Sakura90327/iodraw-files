@@ -148,11 +148,14 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-37" value="制定" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="650" y="380" width="84.03" height="53.05" as="geometry" />
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jWNiBGlXSexpRmk-me00-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jWNiBGlXSexpRmk-me00-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="440" as="sourcePoint" />
             <mxPoint x="770" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
