@@ -568,8 +568,11 @@
         <mxCell id="jWNiBGlXSexpRmk-me00-145" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="660" width="79" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-146" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jWNiBGlXSexpRmk-me00-146" value="评论人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="760" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jWNiBGlXSexpRmk-me00-147" value="学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="810" width="79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
