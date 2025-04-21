@@ -259,7 +259,7 @@
             <mxPoint x="810" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jWNiBGlXSexpRmk-me00-69" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=60;" vertex="1" parent="1">
+        <mxCell id="jWNiBGlXSexpRmk-me00-69" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="700" y="690" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
