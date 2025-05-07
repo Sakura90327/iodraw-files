@@ -25,15 +25,15 @@
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-52" value="posts /*帖子表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="220" height="160" as="geometry">
+          <mxGeometry x="340" y="270" width="210" height="150" as="geometry">
             <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-53" value="title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*标题*/ varchar(255)&lt;div&gt;description /*简介*/ longtext&lt;/div&gt;&lt;div&gt;cover&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*封面*/ varchar(255)&lt;/div&gt;&lt;div&gt;content&amp;nbsp; &amp;nbsp; &amp;nbsp; /*内容*/ longtext&lt;/div&gt;&lt;div&gt;user_id&amp;nbsp; /*发布人id*/ varchar(255)&lt;/div&gt;&lt;div&gt;publish_time/*发布时间*/varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENPi9vajKAE3lP28o-VW-52">
-          <mxGeometry y="26" width="220" height="104" as="geometry" />
+          <mxGeometry y="26" width="210" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-54" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*ID*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENPi9vajKAE3lP28o-VW-52">
-          <mxGeometry y="130" width="220" height="30" as="geometry" />
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
