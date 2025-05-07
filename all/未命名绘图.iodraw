@@ -144,8 +144,11 @@
         <mxCell id="ENPi9vajKAE3lP28o-VW-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="280" as="sourcePoint" />
-            <mxPoint x="750" y="230" as="targetPoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-88" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="248" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
