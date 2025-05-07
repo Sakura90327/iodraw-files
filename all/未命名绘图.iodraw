@@ -108,6 +108,9 @@
         <mxCell id="ENPi9vajKAE3lP28o-VW-75" value="plan_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="835" y="668" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-77" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="955" y="428" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
