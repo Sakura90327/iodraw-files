@@ -12,6 +12,9 @@
         <mxCell id="ENPi9vajKAE3lP28o-VW-42" value="username /*账号*/ varchar(255)&lt;div&gt;password /*密码*/ varchar(255)&lt;/div&gt;&lt;div&gt;name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*名称*/ varchar(255)&lt;/div&gt;&lt;div&gt;avatar&amp;nbsp; &amp;nbsp; &amp;nbsp; /*头像*/ varchar(255)&lt;/div&gt;&lt;div&gt;phone&amp;nbsp; &amp;nbsp; &amp;nbsp; /*电话*/ varchar(255)&lt;/div&gt;&lt;div&gt;email&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*邮箱*/ varchar(255)&lt;/div&gt;&lt;div&gt;role&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*角色*/ varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENPi9vajKAE3lP28o-VW-41">
           <mxGeometry y="26" width="195" height="114" as="geometry" />
         </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-46" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="487" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
