@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-84" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="408" width="80" height="30" as="geometry" />
+          <mxGeometry x="1090" y="408" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-88" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="248" width="80" height="30" as="geometry" />
+          <mxGeometry x="690" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,9 +173,6 @@
             <mxPoint x="600" y="690" as="sourcePoint" />
             <mxPoint x="600" y="660" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ENPi9vajKAE3lP28o-VW-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="498" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
