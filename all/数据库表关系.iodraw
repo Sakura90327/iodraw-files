@@ -1,0 +1,201 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="x_fksFJ4Yb6H843rGW_o">
+    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENPi9vajKAE3lP28o-VW-41" value="User /*学生信息表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="487" y="40" width="183" height="160" as="geometry">
+            <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-42" value="username /*账号*/ varchar(255)&lt;div&gt;password /*密码*/ varchar(255)&lt;/div&gt;&lt;div&gt;name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*名称*/ varchar(255)&lt;/div&gt;&lt;div&gt;avatar&amp;nbsp; &amp;nbsp; &amp;nbsp; /*头像*/ varchar(255)&lt;/div&gt;&lt;div&gt;phone&amp;nbsp; &amp;nbsp; &amp;nbsp; /*电话*/ varchar(255)&lt;/div&gt;&lt;div&gt;email&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*邮箱*/ varchar(255)&lt;/div&gt;&lt;div&gt;role&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*角色*/ varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-41" vertex="1">
+          <mxGeometry y="26" width="183" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-43" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*ID*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-41" vertex="1">
+          <mxGeometry y="130" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-82" value="" style="endArrow=classic;html=1;rounded=0;" parent="ENPi9vajKAE3lP28o-VW-41" target="ENPi9vajKAE3lP28o-VW-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="93" y="200" as="sourcePoint" />
+            <mxPoint x="143" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-48" value="notice /*公告表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="70" y="280" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-49" value="title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*公告标题*/ varchar(255)&lt;div&gt;content&amp;nbsp; &amp;nbsp; /*公告内容*/ varchar(255)&lt;/div&gt;&lt;div&gt;time&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*f发布时间*/ varchar(255)&lt;/div&gt;&lt;div&gt;user_id&amp;nbsp; &amp;nbsp; &amp;nbsp;/*发布人id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-48" vertex="1">
+          <mxGeometry y="26" width="200" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-50" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-48" vertex="1">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-52" value="posts /*帖子表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="340" y="270" width="210" height="150" as="geometry">
+            <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-53" value="title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*标题*/ varchar(255)&lt;div&gt;description&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*简介*/ longtext&lt;/div&gt;&lt;div&gt;cover&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*封面*/ varchar(255)&lt;/div&gt;&lt;div&gt;content&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*内容*/ longtext&lt;/div&gt;&lt;div&gt;user_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*发布人id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int&lt;/div&gt;&lt;div&gt;publish_time/*发布时间*/varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-52" vertex="1">
+          <mxGeometry y="26" width="210" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-54" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-52" vertex="1">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-55" value="comment /*评论表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="610" y="280" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-56" value="content&amp;nbsp; &amp;nbsp; /*公告标题*/ varchar(255)&lt;div&gt;user_id&amp;nbsp; &amp;nbsp; /*评论人*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int&lt;/div&gt;&lt;div&gt;time&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*评论时间*/ varchar(255)&lt;/div&gt;&lt;div&gt;fid&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*关联id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-55" vertex="1">
+          <mxGeometry y="26" width="200" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-57" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*ID*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-55" vertex="1">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-58" value="goal /*学习目标表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="870" y="270" width="210" height="150" as="geometry">
+            <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-59" value="user_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*学生id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int&lt;div&gt;type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*目标类型*/ varchar(255)&lt;/div&gt;&lt;div&gt;title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*目标标题*/ varchar(255)&lt;/div&gt;&lt;div&gt;description /*目标描述*/ varchar(255)&lt;/div&gt;&lt;div&gt;target_date /*达成日期*/&amp;nbsp;varchar(255)&lt;/div&gt;&lt;div&gt;create_time /*创建时间*/varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-58" vertex="1">
+          <mxGeometry y="26" width="210" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-60" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-58" vertex="1">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ENPi9vajKAE3lP28o-VW-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-61" value="plans /*学习计划表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="940" y="480" width="210" height="160" as="geometry">
+            <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-62" value="user_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*学生id*/&amp;nbsp; &amp;nbsp; &amp;nbsp;int&lt;div&gt;goal_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*目标id*/&amp;nbsp; &amp;nbsp; &amp;nbsp;int&lt;/div&gt;&lt;div&gt;title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*计划标题*/ varchar(255)&lt;/div&gt;&lt;div&gt;description /*计划描述*/ varchar(255)&lt;/div&gt;&lt;div&gt;start_date&amp;nbsp; &amp;nbsp;/*开始日期*/ varchar(255)&lt;/div&gt;&lt;div&gt;end_date&amp;nbsp; &amp;nbsp; /*结束时间*/ varchar(255)&lt;/div&gt;&lt;div&gt;create_time/*创建时间*/ varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-61" vertex="1">
+          <mxGeometry y="26" width="210" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-63" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-61" vertex="1">
+          <mxGeometry y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ENPi9vajKAE3lP28o-VW-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-64" value="process /*学习过程表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="560" y="690" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-65" value="user_id&amp;nbsp; &amp;nbsp; /*学生id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int&lt;div&gt;plan_id&amp;nbsp; &amp;nbsp; /*计划id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int&lt;/div&gt;&lt;div&gt;content&amp;nbsp; &amp;nbsp; /*过程内容*/ varchar(255)&lt;/div&gt;&lt;div&gt;create_time /*关联id*/ varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-64" vertex="1">
+          <mxGeometry y="26" width="200" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-66" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-64" vertex="1">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-67" value="admin /*管理员信息表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="40" y="780" width="183" height="160" as="geometry">
+            <mxRectangle x="487" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-68" value="username /*账号*/ varchar(255)&lt;div&gt;password /*密码*/ varchar(255)&lt;/div&gt;&lt;div&gt;name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*名称*/ varchar(255)&lt;/div&gt;&lt;div&gt;avatar&amp;nbsp; &amp;nbsp; &amp;nbsp; /*头像*/ varchar(255)&lt;/div&gt;&lt;div&gt;phone&amp;nbsp; &amp;nbsp; &amp;nbsp; /*电话*/ varchar(255)&lt;/div&gt;&lt;div&gt;email&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*邮箱*/ varchar(255)&lt;/div&gt;&lt;div&gt;role&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*角色*/ varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-67" vertex="1">
+          <mxGeometry y="26" width="183" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-69" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*ID*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-67" vertex="1">
+          <mxGeometry y="130" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-70" value="resource /*学习资源表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="260" y="780" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-71" value="title&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*资源标题*/ varchar(255)&lt;div&gt;description /*资源描述*/ varchar(255)&lt;/div&gt;&lt;div&gt;flie&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /*资源文件*/ varchar(255)&lt;/div&gt;&lt;div&gt;upload_by&amp;nbsp; /*上传者*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int&lt;/div&gt;&lt;div&gt;upload_time/*上传时间*/varchar(255)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-70" vertex="1">
+          <mxGeometry y="26" width="210" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-72" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*id*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ENPi9vajKAE3lP28o-VW-70" vertex="1">
+          <mxGeometry y="110" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-75" value="plan_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="835" y="668" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-77" value="goal_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="945" y="428" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="480" as="sourcePoint" />
+            <mxPoint x="1100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-81" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-84" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="408" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-85" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="270" as="sourcePoint" />
+            <mxPoint x="980" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-86" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="890" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-87" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="280" as="sourcePoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-88" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-90" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-91" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="660" as="sourcePoint" />
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-92" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="660" as="sourcePoint" />
+            <mxPoint x="600" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-93" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="690" as="sourcePoint" />
+            <mxPoint x="600" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-95" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="518" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-96" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-97" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-98" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="248" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-99" value="user_id:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
