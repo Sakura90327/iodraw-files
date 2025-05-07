@@ -15,6 +15,12 @@
         <mxCell id="ENPi9vajKAE3lP28o-VW-43" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/*ID*/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENPi9vajKAE3lP28o-VW-41">
           <mxGeometry y="130" width="183" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ENPi9vajKAE3lP28o-VW-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ENPi9vajKAE3lP28o-VW-41" target="ENPi9vajKAE3lP28o-VW-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="93" y="200" as="sourcePoint" />
+            <mxPoint x="143" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ENPi9vajKAE3lP28o-VW-48" value="notice /*公告表*/" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="200" height="120" as="geometry" />
         </mxCell>
@@ -120,7 +126,7 @@
         <mxCell id="ENPi9vajKAE3lP28o-VW-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="240" as="sourcePoint" />
-            <mxPoint x="1150" y="190" as="targetPoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
